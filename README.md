@@ -28,7 +28,7 @@ A responsive React + TypeScript application that fetches and displays characters
 
 
 ```bash
-git clone https://github.com/your-username/star-wars-explorer.git
+git clone https://github.com/Adinakallus/swapi-app.git
 cd swapi-app
 npm install
 npm start
