@@ -1,0 +1,13 @@
+.body {
+    background-color: #1b1b1bec;
+}
+
+.cardContainer {
+     background-color: #1b1b1b;
+     max-height: 82vh;
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 8px;
+    width: 100%;
+    max-width: 55%;
+}
