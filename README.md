@@ -4,7 +4,7 @@ A responsive React + TypeScript application that fetches and displays characters
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Browse Star Wars characters with pagination
 -  Search characters by name (client-side)
@@ -16,7 +16,7 @@ A responsive React + TypeScript application that fetches and displays characters
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 - React 18 + TypeScript
 - React Router
@@ -24,3 +24,11 @@ A responsive React + TypeScript application that fetches and displays characters
 - SWAPI (Star Wars API)
 - CSS Modules + Theme Variables
 
+##  How to Run The App Locally
+
+
+```bash
+git clone https://github.com/your-username/star-wars-explorer.git
+cd swapi-app
+npm install
+npm start
